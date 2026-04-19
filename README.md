@@ -60,8 +60,8 @@ Classes like `Bill` contain `CartItem`, and `CartItem` contains `Product`.
 
 ### 🔹 Admin Panel
 <p align="center">
-  <img src="screenshots/admin1.png" width="45%">
-  <img src="screenshots/admin2.png" width="45%">
+  <img src="admin1.png" width="45%">
+  <img src="admin2.png" width="45%">
 </p>
 
 
@@ -69,8 +69,8 @@ Classes like `Bill` contain `CartItem`, and `CartItem` contains `Product`.
 
 ### 🔹 Cashier Panel
 <p align="center">
-  <img src="screenshots/cashier1.png" width="45%">
-  <img src="screenshots/cashier2.png" width="45%">
+  <img src="cashier1.png" width="45%">
+  <img src="cashier2.png" width="45%">
 </p>
 
 
@@ -79,8 +79,8 @@ Classes like `Bill` contain `CartItem`, and `CartItem` contains `Product`.
 
 ### 🔹 Customer Panel
 <p align="center">
-  <img src="screenshots/customer1.png" width="45%">
-  <img src="screenshots/customer2.png" width="45%">
+  <img src="customer1.png" width="45%">
+  <img src="customer2.png" width="45%">
 </p>
 
 
