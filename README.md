@@ -64,10 +64,6 @@ Classes like `Bill` contain `CartItem`, and `CartItem` contains `Product`.
   <img src="screenshots/admin2.png" width="45%">
 </p>
 
-<p align="center">
-  <img src="screenshots/admin3.png" width="45%">
-  <img src="screenshots/admin4.png" width="45%">
-</p>
 
 ---
 
@@ -77,10 +73,7 @@ Classes like `Bill` contain `CartItem`, and `CartItem` contains `Product`.
   <img src="screenshots/cashier2.png" width="45%">
 </p>
 
-<p align="center">
-  <img src="screenshots/cashier3.png" width="45%">
-  <img src="screenshots/cashier4.png" width="45%">
-</p>
+
 
 ---
 
@@ -90,10 +83,7 @@ Classes like `Bill` contain `CartItem`, and `CartItem` contains `Product`.
   <img src="screenshots/customer2.png" width="45%">
 </p>
 
-<p align="center">
-  <img src="screenshots/customer3.png" width="45%">
-  <img src="screenshots/customer4.png" width="45%">
-</p>
+
 
 ---
 
